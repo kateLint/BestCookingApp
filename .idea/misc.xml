@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/anim_brush.xml" value="0.1575" />
+        <entry key="app/src/main/res/drawable/ic_clock.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_delete.xml" value="0.1195" />
+        <entry key="app/src/main/res/drawable/ic_error_placeholder.xml" value="0.128" />
+        <entry key="app/src/main/res/drawable/ic_food_joke.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_heart.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1575" />
+        <entry key="app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.1575" />
+        <entry key="app/src/main/res/drawable/ic_leaf.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_menu_book.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_restaurant.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_sad.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_share.xml" value="0.1575" />
+        <entry key="app/src/main/res/drawable/ic_star.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/legacy_splash_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/splash_branding.xml" value="0.1575" />
+        <entry key="app/src/main/res/drawable/splash_branding_image.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/start_unselected.xml" value="0.1" />
+        <entry key="app/src/main/res/font/courgette.xml" value="0.14722222222222223" />
+        <entry key="app/src/main/res/layout/activity_details.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_legacy_splash.xml" value="0.20572916666666666" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.19246861924686193" />
+        <entry key="app/src/main/res/layout/favorite_recipes_row_layout.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_favorite_recipes.xml" value="0.1408514492753623" />
+        <entry key="app/src/main/res/layout/fragment_food_joke.xml" value="0.1408514492753623" />
+        <entry key="app/src/main/res/layout/fragment_ingredients.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_instructions.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_overview.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_recipes.xml" value="0.1408514492753623" />
+        <entry key="app/src/main/res/layout/ingredients_row_layout.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/placeholder_row_layout.xml" value="0.1408514492753623" />
+        <entry key="app/src/main/res/layout/recipes_bottom_sheet.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/recipes_row_layout.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.24427083333333333" />
+        <entry key="app/src/main/res/menu/details_menu.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/favorite_recipes_menu.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/favorites_contextual_menu.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/food_joke_menu.xml" value="0.25" />
+        <entry key="app/src/main/res/menu/recipes_menu.xml" value="0.33" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.18" />
+        <entry key="app/src/main/res/xml/fragment_overview_scene.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17_PREVIEW" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
